@@ -1,0 +1,37 @@
+What do you remember
+
+css inside a styles.css file
+  link the css file to html
+  <head>
+    <link href="styles.css">
+  </head>
+
+internal scripts
+  <style>
+    styles
+  </style>
+
+<p style="color: blue;" > content</p>
+
+
+selector
+
+h1 {
+  color: blue;
+  background-color: red;
+}
+
+rgb(22,22,22);
+#FF0106
+red
+rgba(0,0,0,.5)
+
+opacity: 0.5;
+
+id   #
+class   .   
+
+psuedo selector
+
+
+
